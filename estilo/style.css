@@ -27,6 +27,11 @@ header {
     text-align: center;
 }
 
+header img {
+    width: 40px;
+}
+
+
 header h1 {
     padding-top: 50px;
     font-family: var(--fonte02);
